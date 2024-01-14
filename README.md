@@ -1,4 +1,5 @@
-# Crop Recommendation System Using Machine Learning
+
+![image](https://github.com/PubaliDey/Crop_Recommendation_Prediction_System/assets/96117153/c0a94cd1-90b3-4c94-9df5-eac79387aeec)# Crop Recommendation System Using Machine Learning
 # Description
 The Crop Recommendation System is a machine learning-based application that provides recommendations for suitable crops based on various environmental and soil conditions. It aims to assist farmers and agricultural professionals in making informed decisions about crop selection, optimizing yields, and maximizing profitability.
 
@@ -32,11 +33,5 @@ Development of a mobile application for convenient access and usage on smartphon
 Integration of user feedback and data collection to continuously enhance the recommendation system's performance.
 Contributing
 Contributions to the project are welcome. If you have any suggestions, bug reports, or feature requests, please submit them through the issue tracker on the GitHub repository.
-
-
-
 # Acknowledgements
 We would like to express our gratitude to the agricultural research community, farmers, and organizations for providing valuable insights, data, and domain knowledge that contributed to the development of this Crop Recommendation System.
-
-# Contact
-For any inquiries or questions, please contact us at 611noorsaeed@gmail.com
